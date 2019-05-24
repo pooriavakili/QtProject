@@ -1,0 +1,80 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Page1.qml</file>
+        <file>Page1Form.ui.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>0k1.jpg</file>
+        <file>8.png</file>
+        <file>10.png</file>
+        <file>11.png</file>
+        <file>12222.jpg</file>
+        <file>Arte_islámico_–_Tazhib_persa_-_cuadro_44_2.jpg</file>
+        <file>images (3).jpg</file>
+        <file>images (7).jpg</file>
+        <file>images ok.png</file>
+        <file>images7 (3).jpg</file>
+        <file>imageso.png</file>
+        <file>imagesok2.jpg</file>
+        <file>instagram_full-limoographic.png</file>
+        <file>karet.jpg</file>
+        <file>kart.jpg</file>
+        <file>kart6.jpg</file>
+        <file>logo.jpg</file>
+        <file>ShowImage (1).jpg</file>
+        <file>Untitled-10.jpg</file>
+        <file>Untitled-19.jpg</file>
+        <file>بعدی.jpg</file>
+        <file>قبلی.jpg</file>
+        <file>ParSianpartoizady.qml</file>
+        <file>Sabtelogin.qml</file>
+        <file>Farahvahar 03.jpg</file>
+        <file>ok.png</file>
+        <file>Sabty.qml</file>
+        <file>Hoghughy.qml</file>
+        <file>Tarikhche.qml</file>
+        <file>Eftetkharat.qml</file>
+        <file>ok2.jpg</file>
+        <file>ok3.jpg</file>
+        <file>Darbarema.qml</file>
+        <file>TamasBaMa.qml</file>
+        <file>AghahiEstekhdam.qml</file>
+        <file>images (6).jpg</file>
+        <file>images (8).jpg</file>
+        <file>images (92).jpg</file>
+        <file>images (13).jpg</file>
+        <file>SabetAnvaeSherkat.qml</file>
+        <file>AkhzdafaterPolomp.qml</file>
+        <file>AkhzeKodEghtesady.qml</file>
+        <file>AkhzKartBazarghany.qml</file>
+        <file>SabteTaghirat.qml</file>
+        <file>SabteBrand.qml</file>
+        <file>AkhzBerandhayMotabar.qml</file>
+        <file>SabteEkhterae.qml</file>
+        <file>AkhzMofasaHesab.qml</file>
+        <file>AkhzGovahinameIzo.qml</file>
+        <file>AkhzJavazTasis.qml</file>
+        <file>AkhzeRotbe.qml</file>
+        <file>AkhzEzharName.qml</file>
+        <file>AkhzSibSalamat.qml</file>
+        <file>MojavezAzVezaratSanaye.qml</file>
+        <file>GovahiArzeshAfzoode.qml</file>
+        <file>SabteSherkatMoasese.qml</file>
+        <file>SabteShekatMasouliatMahdood.qml</file>
+        <file>SabteSherkatSahamikhas.qml</file>
+        <file>SabetSherkatSahamykhas.qml</file>
+        <file>SabteSherkatTazamony.qml</file>
+        <file>Click.js</file>
+        <file>MokhtaletSahamy.qml</file>
+        <file>MokhtaletGirSahamy.qml</file>
+        <file>Nesbi.qml</file>
+        <file>Taavony.qml</file>
+        <file>Sahamyam.qml</file>
+        <file>ActionButton.qml</file>
+        <file>OK ATTACH.jpg</file>
+        <file>OK BROWSE.jpg</file>
+        <file>1insta.jpg</file>
+        <file>9.jpg</file>
+    </qresource>
+    <qresource prefix="/folder"/>
+</RCC>
